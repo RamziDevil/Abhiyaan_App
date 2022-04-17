@@ -11,7 +11,7 @@ Section A:
 >10. to run any of the files in the package run the command
 >>&emsp;`source devel/setup.bash`\
 >>&emsp;`rosrun pkg1 filename`
->9. for the turtlesim question first run `roscore`in a new tab and then run `rosrun turtlesim turtle_node` in another tab
+>9. for the turtlesim question first run `roscore`in a new tab and then run `rosrun turtlesim turtlesim_node` in another tab
 >10. Then run these commands in another tab
 >>&emsp;`rosservice call /reset`\
 >>&emsp;`rosservice call /kill turtle1`\
