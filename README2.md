@@ -11,13 +11,16 @@ Section A:
 >10. to run any of the files in the package run the command
 >>&emsp;`source devel/setup.bash`\
 >>&emsp;`rosrun pkg1 filename`
->9. for the turtlesim question first run `roscore`in a new tab and then run `rosrun turtlesim turtlesim_node` in another tab
+>9. for the turtlesim question first run `roscore`in a new tab and then run  
+>`rosrun turtlesim turtlesim_node` in another tab
 >10. Then run these commands in another tab
 >>&emsp;`rosservice call /reset`\
 >>&emsp;`rosservice call /kill turtle1`\
 >>&emsp;`rosservice call /spawn 2 2 1 turtle1`\
 >>&emsp;`rosservice call /spawn 11 11 3 turtle2`\
->>&ensp;then run the python file "twobody.py"
+>>&ensp;then run the python file "twobody.py"  
+>11. Spawn the turtles at (0,4)(angle 1) and (1,9)(angle 2) to get concentric circles. ![Click to view](/turtle1.
+>12. Spawn the turtles at (2,2)(angle 1) and (11,11)(angle 2) to get double helical shape 
 >11. there's a chance that the twobody file will immediately crash the turtles together and the program stops due to division by zero error.
     if that happens please open turtle_teleop_key in another terminal and move one turtle some distance away, turn its angle and try running the python file again
     
