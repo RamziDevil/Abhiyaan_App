@@ -20,8 +20,8 @@ Section A:
 >>&emsp;`rosservice call /spawn 2 2 1 turtle1`\
 >>&emsp;`rosservice call /spawn 11 11 3 turtle2`\
 >>&ensp;then run the python file "twobody.py"  
->11. Spawn the turtles at (0,4)(angle 1) and (1,9)(angle 2) to get concentric circles.  ![Click to view](turtle2.jpg=)
->12. Spawn the turtles at (2,2)(angle 1) and (11,11)(angle 2) to get double helical shape.  ![Click to view](turtle1.jpg=)
+>11. Spawn the turtles at (0,4)(angle 1) and (1,9)(angle 2) to get concentric circles.  ![Click to view](turtle2.jpg=200x200)
+>12. Spawn the turtles at (2,2)(angle 1) and (11,11)(angle 2) to get double helical shape.  ![Click to view](turtle1.jpg =)
 >11. there's a chance that the twobody file will immediately crash the turtles together and the program stops due to division by zero error. 
     if that happens please open turtle_teleop_key in another terminal and move one turtle some distance away, turn its angle and try running the python file again
     
