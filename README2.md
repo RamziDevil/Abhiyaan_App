@@ -8,7 +8,8 @@ Section A:
 >7. i have done the second question in Task 2 in c++. the file is named node3.cpp 
 >8. for the python files u might have to make it executable first by going to the directory or folder in which the file is placed then run the command 
 >>&emsp;`chmod +x filename.py`
->10. to run any of the files in the package run the command
+>10. to run any of the files in the package go to the workspace and run the commands
+>>&emsp;`catkin_make`\
 >>&emsp;`source devel/setup.bash`\
 >>&emsp;`rosrun pkg1 filename`
 >9. for the turtlesim question first run `roscore`in a new tab and then run  
