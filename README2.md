@@ -24,6 +24,7 @@ Section A:
 Section B:
 >1. the cpp file for the first question is named "matrix.cpp"
 >2. the file for the second question is "opencv.py" 
+>3. i couldn't upload the virat_test video due to large file size
 >3. the documents for the third question are "sensor.docx" and "3D LiDAR.docx"
    
 -----
