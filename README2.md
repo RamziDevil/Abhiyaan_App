@@ -32,6 +32,9 @@ Section B:
 >1. the cpp file for the first question is named "matrix.cpp"
 >2. the file for the second question is "opencv.py" 
 >3. the documents for the third question are "sensor.docx" and "3D LiDAR.docx"
->4.     
+   
 -----
 Bonus Section:
+>1. the python file for the first question is road.py. it's incomplete but i spent a lot of time on this and tried a lot of different approaches. 😞
+>2. the document for the section is "sponsor.docx". i have no idea what a sponsor actually does so i just went with my gut. 
+>3. i didn't do the third question cause i don't know how to use any designing software but i can learn in a few days if you guys select me 🙂
