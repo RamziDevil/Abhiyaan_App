@@ -35,6 +35,6 @@ Section B:
    
 -----
 Bonus Section:
->1. the python file for the first question is road.py. it's incomplete but i spent a lot of time on this and tried a lot of different approaches. 😞
+>1. the python file for the first question is "road.py". it's incomplete but i spent a lot of time on this and tried a lot of different approaches. 😞
 >2. the document for the section is "sponsor.docx". i have no idea what a sponsor actually does so i just went with my gut. 
 >3. i didn't do the third question cause i don't know how to use any designing software but i can learn in a few days if you guys select me 🙂
