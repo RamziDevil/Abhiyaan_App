@@ -1,5 +1,5 @@
 Section A:
->1. The workspace is named 'catkin_ws'
+>1. The workspace is named 'catkin_ws' it is in the master branch of this repo
 >2. inside the src folder of catkin_ws i have created a package named 'pkg1'
 >3. the files for all te questions in section A are in this package itself
 >4. the python files are in the scripts folder inside the package and the c++ files are in the src folder
