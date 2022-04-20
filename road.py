@@ -8,7 +8,7 @@ be difficult to find the distance if I didn’t have the coordinates of the exac
 I also tried to generate a parabola that approximately matches the boundaries of the road and the draw lines to the parabolas and approach as before.
 But sadly i got stuck halfway:(
  """
-img=cv.imread("C:/Users/Ramzi/Downloads/4Junc.png")
+img=cv.imread("4Junc.png")
 img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 w=img.shape[1] #width
 h=img.shape[0] #height
